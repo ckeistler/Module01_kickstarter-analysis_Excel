@@ -52,7 +52,7 @@ Average Donation by Goal
 ![Avg_Donation_vs_Goal](https://user-images.githubusercontent.com/88443672/130395893-cc331316-a791-4c68-9a28-27661d62f485.png)
 
 Percent of Goal Pledged vs Sum of Total Projects
-![Pct_Pledged_vs_Goal_AND_Total_Projects_Sum](https://user-images.githubusercontent.com/88443672/130443968-c5858174-4d0d-447d-aaeb-e2b3b5562f9a.png)
+![Pct_Pledged_vs_Goal_AND_Total_Projects_Sum](https://user-images.githubusercontent.com/88443672/130451781-d9d37856-d99e-4a7a-9490-fcc2bf838b26.png)
 
 Total Pledged vs Goal by Goal Category
 ![Pledged_vs_Goal](https://user-images.githubusercontent.com/88443672/130396180-3378b25b-d3f7-465a-b39b-1c127e3f1162.png)
