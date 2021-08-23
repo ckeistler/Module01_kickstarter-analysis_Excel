@@ -42,7 +42,7 @@ This dataset doesn’t include foreign exchange rates to normalize all goals and
 This dataset is fairly limited for referencing seasonality, as there are only 3 years of data included with any significant quantity.
 
 This dataset is also skewed towards staff picks (10.89% of the dataset).  While only 66.28% of total projects are successful, 90.35% of staff picks are successful.  Additionally, while all pledges total 52.8% of the total goals (goals under 15k average to 72.5% funded), staff picks average at 97.1% funded.
- ![SP_Successful_Comparison_%_Funded](https://user-images.githubusercontent.com/88443672/130395782-d52e2a2e-cdb9-4fd3-bda7-9defa075b8b4.png)
+![SP_Successful_Comparison_%_Successful](https://user-images.githubusercontent.com/88443672/130448517-9235ab09-7852-41d6-8a10-183d6f8a09fc.png)
 ![SP_Successful_Comparison_%_Successful](https://user-images.githubusercontent.com/88443672/130395810-1a04babd-c5ab-454c-988a-25ec0c760bd4.png)
 
 
