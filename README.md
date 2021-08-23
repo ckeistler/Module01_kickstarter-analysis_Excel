@@ -34,6 +34,8 @@ Variance in failed outcomes per month is far lower than that of successful outco
 Projects with lower goals are more likely to be successful than those with higher goals.  Although projects with goals between 35,000-44,999 display success rates of over 60%, the sample size of data in these groupings is extremely small.  Projects with goals 15,000 and higher account for 8.21% of the dataset, while projects with goals of 25,000+ account for only 4.01% of the dataset.  If we group the 86 projects with goals at 15,000 or higher, the anomaly shown when categorizing in the prior groupings disappears, and the trend is very clear.    
 ![Outcomes_vs_Goals2](https://user-images.githubusercontent.com/88443672/130396497-5dbc64bf-85e9-4a8e-8b79-58e6b607ca69.png)
 
+![Pct_Funded_vs_Goal](https://user-images.githubusercontent.com/88443672/130444148-c5a099bb-9167-4a18-b63a-d07d37956e5c.png)
+
 - What are some limitations of this dataset?
 This dataset doesn’t include foreign exchange rates to normalize all goals and total pledges.  Ideally, we would need a much deeper set of data, including every donation and the corresponding time it was made to each project.  From there we could reference a historical foreign exchange time series table and covert each donation into a common currency as of the time it was made.
 
@@ -63,10 +65,3 @@ Total Projects and Money Pledged by Goal
 
 Total Donations by Goal
 ![Total Donations by Goal](https://user-images.githubusercontent.com/88443672/130396669-361aef2e-1bfd-40ce-9bbc-db21b30f628b.png)
-
-Percent Funded by Goal
-![Pct_Funded_vs_Goal](https://user-images.githubusercontent.com/88443672/130444148-c5a099bb-9167-4a18-b63a-d07d37956e5c.png)
-
-
-
-
