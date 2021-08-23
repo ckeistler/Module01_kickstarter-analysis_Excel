@@ -65,7 +65,8 @@ Total Donations by Goal
 ![Total Donations by Goal](https://user-images.githubusercontent.com/88443672/130396669-361aef2e-1bfd-40ce-9bbc-db21b30f628b.png)
 
 Percent Funded by Goal
-![Pct_Funded_vs_Goal](https://user-images.githubusercontent.com/88443672/130443988-87fd37c6-e546-46ad-95c6-c7c67b4607be.png)
+![Pct_Funded_vs_Goal](https://user-images.githubusercontent.com/88443672/130444148-c5a099bb-9167-4a18-b63a-d07d37956e5c.png)
+
 
 
 
