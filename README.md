@@ -18,7 +18,7 @@ The purpose of this project was to look for correlations between initial goals a
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/88443672/130395701-43ab5471-5adf-44c5-8acd-059710f448bf.png)
 
 ### Challenges and Difficulties Encountered
-Writing out multiple SUMIFS or COUNTIFS statements can be time consuming.  Nesting equations can help speed that process up, allowing you to replicate the COUNTIFS or SUMIFS statements quickly.  For example, in cell C6, instead of using ">="&10000 and "<"&(15000), I opted to create a column with values to reference and nest formulas within the statements.  That statement can then drag down and apply to all categories until the 50,000+.  You can then easily copy those equations and use a find/replace excel feature to replicate the # of successful statems and use them for statements that produce the # of Failed.  
+Writing out multiple SUMIFS or COUNTIFS statements can be time consuming.  Nesting equations can help speed that process up, allowing you to replicate the COUNTIFS or SUMIFS statements quickly.  For example, in cell C6, instead of using ">="&10000 and "<"&(15000), I opted to create a column with values to reference and nest formulas within the statements.  That statement can then drag down and apply to all categories until the 50,000+.  You can then easily copy those equations and use a find/replace excel feature to replicate the # of successful statements and use them for statements that produce the # of Failed.  
 
 EG, =COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D,">="&B6,Kickstarter!$D:$D,"<"&(B6+5000),Kickstarter!R:R,"plays")
 
